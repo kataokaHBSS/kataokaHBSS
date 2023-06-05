@@ -31,7 +31,7 @@ Copy the piece of code from below and paste it into your markdown.<br/>
 <br>
 <br>
 ```md
-  [![My languages](https://github-stats-evirunurm.vercel.app/api/languages.js?username=evirunurm)](https://github.com/evirunurm/github-stats)
+  [![My languages](https://github-stats-evirunurm.vercel.app/api/languages.js?username=kataokaHBSS)](https://github.com/evirunurm/github-stats)
 ```
 <br>
 `/api/languages.js` endpoint accepts the following parameters.<br>
