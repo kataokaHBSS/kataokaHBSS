@@ -2,7 +2,7 @@
 
 I am currently working as a web application Developer.</br>
 best regards.</br>
-![snake gif](https://github.com/kataoka/kataoka/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/kataokaHBSS/kataokaHBSS/blob/output/github-contribution-grid-snake.gif)
 ### Languages and Tools
 <p align="left">
  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
@@ -58,9 +58,9 @@ best regards.</br>
   </a> 
 </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username='&theme=onedark)](https://github.com/kataoka/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username='&theme=onedark)](https://github.com/kataokaHBSS/github-profile-trophy)
 <p align="left"> 
-  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kataoka&layout=compact&show_icons=true&theme=tokyonight&hide=css" />
+  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kataokaHBSS&layout=compact&show_icons=true&theme=tokyonight&hide=css" />
   <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=kataokaHBSS&theme=tokyonight&show_icons=ture&count_private=true" />
 </p>
 
