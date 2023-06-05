@@ -1,9 +1,6 @@
 ### Hi there 👋
 
-![github-contribution-grid-snake](https://raw.githubusercontent.com/kataokaHBSS/kataokaHBSS/main/img/snake.svg) 
-
 <!--
-**kataokaHBSS/kataokaHBSS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -17,3 +14,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+![github-contribution-grid-snake](https://raw.githubusercontent.com/kataokaHBSS/kataokaHBSS/master/img/snake.svg)
