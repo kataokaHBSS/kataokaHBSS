@@ -14,6 +14,4 @@
   [![My languages](https://github-stats-evirunurm.vercel.app/api/languages.js?username=kataokaHBSS)](https://github.com/evirunurm/github-stats)
 
 ## Reference
-<br>
-<br>
   [![My Stats](https://github-stats-evirunurm.vercel.app/api/stats.js?username=kataokaHBSS)](https://github.com/evirunurm/github-stats)
