@@ -16,6 +16,7 @@ jobs:
         id: snake-gif
         with:
           github_user_name: ${{ github.repository_owner }}
+          github_token: ${{ secrets.PERSONAL_ACCESS_TOKEN_SNAKE  }}
           gif_out_path: ./img/snake.gif
           svg_out_path: ./img/snake.svg
       - name: Push to GitHub
