@@ -20,5 +20,4 @@ Here are some ideas to get you started:
 
 https://github-stats-evirunurm.vercel.app/api/stats.js?username=kataokaHBSS
 
-https://github-stats-evirunurm.vercel.app/api/languages.js?username=kataokaHBSS
 
