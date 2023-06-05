@@ -22,7 +22,7 @@
 
 I am currently working as a web application Developer.</br>
 best regards.</br>
-![snake gif](https://github.com/zuoboo/zuoboo/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/kataokaHBSS/kataokaHBSS/blob/output/github-contribution-grid-snake.gif)
 ### Languages and Tools
 <p align="left">
  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
