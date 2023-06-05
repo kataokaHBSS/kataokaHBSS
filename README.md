@@ -8,22 +8,17 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
 </picture>
 
+
+<!-- ![snake gif](https://github.com/kataokaHBSS/kataokaHBSS/blob/output/github-contribution-grid-snake.gif) -->
+
 ## GitHub profile
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kataokaHBSS&theme=blue_green)
 
-## GitHub profile statistics / Most used languages
+## GitHub profile statistics / Most used languages / Languages and Tools
   [![My Stats](https://github-stats-evirunurm.vercel.app/api/stats.js?username=kataokaHBSS)](https://github.com/evirunurm/github-stats)
   [![My languages](https://github-stats-evirunurm.vercel.app/api/languages.js?username=kataokaHBSS)](https://github.com/evirunurm/github-stats/color=white)
 
-
-
-## Hi, I'm zuoboo 👋
-
-I am currently working as a web application Developer.</br>
-best regards.</br>
-![snake gif](https://github.com/kataokaHBSS/kataokaHBSS/blob/output/github-contribution-grid-snake.gif)
-### Languages and Tools
 <p align="left">
  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
