@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm kataoka</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
