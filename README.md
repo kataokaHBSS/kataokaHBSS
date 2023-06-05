@@ -1,6 +1,6 @@
-### Hi there 👋
+### kataoka 👋
 
-**kataokaHBSS/kataokaHBSS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- **kataokaHBSS/kataokaHBSS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: ... -->
 
 
 <picture>
@@ -18,7 +18,7 @@ Here are some ideas to get you started:
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
 </picture>
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kataokaHBSS&theme=blue_green)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SKATASHIN&theme=blue_green)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=kataokaHBSS&theme=blue_green)
 
