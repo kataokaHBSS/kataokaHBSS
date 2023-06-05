@@ -25,11 +25,20 @@ Here are some ideas to get you started:
 
   [![My languages](https://github-stats-evirunurm.vercel.app/api/languages.js?username=kataokaHBSS)](https://github.com/evirunurm/github-stats)
 
+# Stats for your README.md
+
+## Reference
 
 ### GitHub profile statistics
+
+Copy the piece of code from below and paste it into your markdown.<br/>
+**Change** the value of `username=` to your GitHub's username.
 <br>
 <br>
 ```md
-  [![My Stats](https://github-stats-evirunurm.vercel.app/api/stats.js?username=kataokaHBSS)](https://github.com/evirunurm/github-stats)
+  [![My Stats](https://github-stats-evirunurm.vercel.app/api/stats.js?username=evirunurm)](https://github.com/evirunurm/github-stats)
 ```
 <br>
+`/api/stats.js` endpoint accepts the following parameters.<br>
+A query parameter must follow the `parameter=value` structure.<br>
+Several parameters must go separated by `&`
