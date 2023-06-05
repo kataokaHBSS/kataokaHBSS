@@ -38,7 +38,3 @@ Copy the piece of code from below and paste it into your markdown.<br/>
 ```md
   [![My Stats](https://github-stats-evirunurm.vercel.app/api/stats.js?username=evirunurm)](https://github.com/evirunurm/github-stats)
 ```
-<br>
-`/api/stats.js` endpoint accepts the following parameters.<br>
-A query parameter must follow the `parameter=value` structure.<br>
-Several parameters must go separated by `&`
