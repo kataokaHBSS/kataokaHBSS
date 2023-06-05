@@ -35,6 +35,4 @@ Copy the piece of code from below and paste it into your markdown.<br/>
 **Change** the value of `username=` to your GitHub's username.
 <br>
 <br>
-```md
   [![My Stats](https://github-stats-evirunurm.vercel.app/api/stats.js?username=kataokaHBSS)](https://github.com/evirunurm/github-stats)
-```
