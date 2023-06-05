@@ -11,7 +11,8 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=kataokaHBSS&theme=yeblu)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kataokaHBSS&theme=yeblu)
 
-  [![My languages](https://github-stats-evirunurm.vercel.app/api/languages.js?username=kataokaHBSS)](https://github.com/evirunurm/github-stats)
+
 
 ## Reference
   [![My Stats](https://github-stats-evirunurm.vercel.app/api/stats.js?username=kataokaHBSS)](https://github.com/evirunurm/github-stats)
+  [![My languages](https://github-stats-evirunurm.vercel.app/api/languages.js?username=kataokaHBSS)](https://github.com/evirunurm/github-stats)
