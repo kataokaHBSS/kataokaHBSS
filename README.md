@@ -36,5 +36,5 @@ Copy the piece of code from below and paste it into your markdown.<br/>
 <br>
 <br>
 ```md
-  [![My Stats](https://github-stats-evirunurm.vercel.app/api/stats.js?username=evirunurm)](https://github.com/evirunurm/github-stats)
+  [![My Stats](https://github-stats-evirunurm.vercel.app/api/stats.js?username=kataokaHBSS)](https://github.com/evirunurm/github-stats)
 ```
