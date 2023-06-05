@@ -24,3 +24,12 @@ Here are some ideas to get you started:
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kataokaHBSS&theme=yeblu)
 
   [![My languages](https://github-stats-evirunurm.vercel.app/api/languages.js?username=kataokaHBSS)](https://github.com/evirunurm/github-stats)
+
+
+### GitHub profile statistics
+<br>
+<br>
+```md
+  [![My Stats](https://github-stats-evirunurm.vercel.app/api/stats.js?username=kataokaHBSS)](https://github.com/evirunurm/github-stats)
+```
+<br>
