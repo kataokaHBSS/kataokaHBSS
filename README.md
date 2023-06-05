@@ -19,5 +19,3 @@ Here are some ideas to get you started:
 </picture>
 
 
-![github-contribution-grid-snake](https://raw.githubusercontent.com/kataokaHBSS/kataokaHBSS/main/img/snake.svg) 
-
