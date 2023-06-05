@@ -21,6 +21,6 @@ Here are some ideas to get you started:
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kataokaHBSS&theme=blue_green)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=kataokaHBSS&theme=yeblu)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kataokaHBSS&theme=vue)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kataokaHBSS&theme=vision_friendly_dark)
 
 
