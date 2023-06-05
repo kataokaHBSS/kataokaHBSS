@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 ### Most used languages 
 
 Copy the piece of code from below and paste it into your markdown.<br/>
-**Change** the value of `username=` to your GitHub's username.
+**Change** the value of `username=` kataokaHBSS.
 <br>
 <br>
 ```md
