@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm kataoka</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
-
 ## SNAKE
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
