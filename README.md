@@ -13,11 +13,7 @@
 
   [![My languages](https://github-stats-evirunurm.vercel.app/api/languages.js?username=kataokaHBSS)](https://github.com/evirunurm/github-stats)
 
-# Stats for your README.md
-
 ## Reference
-
-### GitHub profile statistics
 <br>
 <br>
   [![My Stats](https://github-stats-evirunurm.vercel.app/api/stats.js?username=kataokaHBSS)](https://github.com/evirunurm/github-stats)
