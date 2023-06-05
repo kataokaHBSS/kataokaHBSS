@@ -14,4 +14,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![github-contribution-grid-snake](https://raw.githubusercontent.com/kataokaHBSS/kataokaHBSS/main/img/snake.svg)
+![github-contribution-grid-snake](https://raw.githubusercontent.com/kataokaHBSS/kataokaHBSS/master/img/snake.svg)
