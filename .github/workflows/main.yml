@@ -37,6 +37,5 @@ jobs:
         with:
           target_branch: output
           build_dir: dist
-          message: ':rocket: Update ![github-contribution-grid-snake](https://raw.githubusercontent.com/kataokaHBSS/kataokaHBSS/master/img/snake.svg)'
         env:
           GITHUB_TOKEN: ${{ secrets.PERSONAL_ACCESS_TOKEN_SNAKE }}
