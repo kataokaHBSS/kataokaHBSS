@@ -13,7 +13,7 @@
 </picture>
 
 ![github-contribution-grid-snake](https://raw.githubusercontent.com/kataokaHBSS/kataokaHBSS/master/img/snake.svg) 
-![snake gif](https://github.com/kataokaHBSS/kataokaHBSS/blob/output/github-contribution-grid-snake.gif)
+<!-- ![snake gif](https://github.com/kataokaHBSS/kataokaHBSS/blob/output/github-contribution-grid-snake.gif) -->
 
 ## GitHub profile
 
