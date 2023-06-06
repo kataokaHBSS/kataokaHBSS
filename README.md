@@ -23,3 +23,12 @@
   [![My Stats](https://github-stats-evirunurm.vercel.app/api/stats.js?username=kataokaHBSS)](https://github.com/evirunurm/github-stats)
   [![My languages](https://github-stats-evirunurm.vercel.app/api/languages.js?username=kataokaHBSS)](https://github.com/evirunurm/github-stats/color=white)
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kataokahbss&show_icons=true&locale=en&layout=compact" alt="kataokahbss" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kataokahbss&show_icons=true&locale=en" alt="kataokahbss" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kataokahbss&" alt="kataokahbss" /></p>
