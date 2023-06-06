@@ -12,7 +12,7 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
 </picture>
 
-![github-contribution-grid-snake](https://raw.githubusercontent.com/kataokaHBSS/kataokaHBSS/m/img/snake.svg) 
+![github-contribution-grid-snake](https://raw.githubusercontent.com/kataokaHBSS/kataokaHBSS/master/img/snake.svg) 
 <!-- ![snake gif](https://github.com/kataokaHBSS/kataokaHBSS/blob/output/github-contribution-grid-snake.gif) -->
 
 ## GitHub profile
